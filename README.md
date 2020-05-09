@@ -1,6 +1,6 @@
 # ENJOYIT Consulting INC
 
-ENJOYIT Consulting was incorporated in 2015 at Burnaby, British Columbia, Canada. ENJOYIT Consulting is actively providing technical consulting services from home computing to requirements analysis, architectural design, project / product implementation, and sustainment needs for enterprises, including BC Hydro, Telus, Safeway Pharmacy, and TRIUMF.
+ENJOYIT Consulting was incorporated in 2015 at Burnaby, British Columbia, Canada. ENJOYIT Consulting is actively providing information technology (IT) consulting services from home computing to requirements analysis, architectural design, project / product implementation, and sustainment needs for enterprises, including BC Hydro, Telus, Safeway Pharmacy, and TRIUMF.
 
 Principal consultant Valentine Wu got his Master's degree in Computing Science from Simon Fraser University. He lived in Burnaby since 2001. He has more than 20 years of research, analysis, and development experiences in different industries to provide and implement IT solutions.
 
